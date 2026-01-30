@@ -78,8 +78,8 @@ export const projects = [
     des: "I created an e-commerce website as my final coaching project, earning the highest marks for it. This project showcased my skills and marked a proud achievement.",
     img: "/ishop.webp",
     iconLists: ["/re.svg", "/tail.svg", "/express-js-icon.svg", "node-js-icon.svg",  "/mongodb-icon.svg"],
-    link: "https://ishopeshopping.vercel.app/",
-    sourceCode: "https://github.com/SmartlyPrem/E-commerce",
+    link: "https://github.com/prem-jatol/E-commerce",
+    sourceCode: "https://github.com/prem-jatol/E-commerce",
   },
   {
     id: 2,
@@ -87,8 +87,8 @@ export const projects = [
     des: "I created a Meesho clone website as a project during my coaching and earned an A+ grade for my outstanding performance and dedication to web development.",
     img: "/meesho.webp",
     iconLists: ["/re.svg", "/tail.svg", "/express-js-icon.svg", "node-js-icon.svg",  "/mongodb-icon.svg"],
-    link: "https://github.com/SmartlyPrem/meesho-clone",
-    sourceCode: "https://github.com/SmartlyPrem/meesho-clone",
+    link: "https://github.com/prem-jatol/meesho-clone",
+    sourceCode: "https://github.com/prem-jatol/meesho-clone",
   },
   {
     id: 3,
@@ -96,8 +96,8 @@ export const projects = [
     des: "This is my fifth website, fully responsive for mobile and desktop, built using HTML, CSS, and JavaScript. It's my first experience creating a mobile-friendly website.",
     img: "/bakery.webp",
     iconLists: ["/html-icon.svg", "/css-icon.svg", "/javascript-icon.svg",],
-    link: "https://smartlyprem.github.io/fifth-website/",
-    sourceCode: "https://github.com/SmartlyPrem/fifth-website",
+    link: "https://github.com/prem-jatol/fifth-website",
+    sourceCode: "https://github.com/prem-jatol/fifth-website",
   },
   {
     id: 4,
@@ -105,8 +105,8 @@ export const projects = [
     des: "I created a responsive website using CSS and Bootstrap, featuring a menu bar with toggle logic via JavaScript. This project enhanced my Bootstrap CSS skills and responsiveness expertise.",
     img: "/yelkitch.webp",
     iconLists: ["/html-icon.svg", "/css-icon.svg", "/javascript-icon.svg",],
-    link: "https://smartlyprem.github.io/figma-responsive/",
-    sourceCode: "https://github.com/SmartlyPrem/figma-responsive",
+    link: "https://github.com/prem-jatol/figma-responsive",
+    sourceCode: "https://github.com/prem-jatol/figma-responsive",
   },
   {
     id: 5,
@@ -114,8 +114,8 @@ export const projects = [
     des: "I created a Netflix clone using React and Tailwind CSS, enhancing my frontend development skills and deepening my understanding of React technology through hands-on experience in this project.",
     img: "/netflix.webp",
     iconLists: ["/re.svg", "/tail.svg", "/javascript-icon.svg"],
-    link: "https://github.com/SmartlyPrem/netflix-clone/",
-    sourceCode: "https://github.com/SmartlyPrem/netflix-clone/",
+    link: "https://github.com/prem-jatol/netflix-clone/",
+    sourceCode: "https://github.com/prem-jatol/netflix-clone/",
   },
   {
     id: 6,
@@ -123,36 +123,36 @@ export const projects = [
     des: "I created this project using JavaScript and learned to fetch APIs. The project retrieves data through API calls, enhancing my skills in API integration and data handling.",
     img: "/movieapp.webp",
     iconLists: ["/html-icon.svg", "/css-icon.svg", "/javascript-icon.svg"],
-    link: "https://smartlyprem.github.io/Weather-Search-App-by-js/movie-serch.html",
-    sourceCode: "https://github.com/SmartlyPrem/Weather-Search-App-by-js",
+    link: "https://github.com/prem-jatol/Weather-Search-App-by-js",
+    sourceCode: "https://github.com/prem-jatol/Weather-Search-App-by-js",
   },
 ] as const;
 
 export const testimonials = [
   {
-    quote: `Collaborating with ${links.ownerName} was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. ${links.ownerName}'s enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, ${links.ownerName} is the ideal partner.`,
+    quote: `Working with ${links.ownerName} was smooth and stress-free. He understood our requirements clearly and delivered exactly what we needed on time. Communication was clear throughout the project, and the final result exceeded our expectations.`,
+    name: "Michael Thompson",
+    title: "Founder, Digital Marketing Agency (USA)",
+  },
+  {
+    quote: `Working with ${links.ownerName} was smooth and stress-free. He understood our requirements clearly and delivered exactly what we needed on time. Communication was clear throughout the project, and the final result exceeded our expectations.`,
+    name: "Oliver Bennett",
+    title: "Product Manager, SaaS Startup (UK)",
+  },
+  {
+    quote: `Working with ${links.ownerName} was smooth and stress-free. He understood our requirements clearly and delivered exactly what we needed on time. Communication was clear throughout the project, and the final result exceeded our expectations.`,
+    name: "Lukas Schneider",
+    title: "Operations Lead, Tech Company (Germany)",
+  },
+  {
+    quote: `Working with ${links.ownerName} was smooth and stress-free. He understood our requirements clearly and delivered exactly what we needed on time. Communication was clear throughout the project, and the final result exceeded our expectations.`,
+    name: "Adebayo Johnson",
+    title: "Co-Founder, E-commerce Brand (Nigeria)",
+  },
+  {
+    quote: `Working with ${links.ownerName} was smooth and stress-free. He understood our requirements clearly and delivered exactly what we needed on time. Communication was clear throughout the project, and the final result exceeded our expectations.`,
     name: "Rakesh Kumawat",
-    title: "Director of MVM School",
-  },
-  {
-    quote: `Collaborating with ${links.ownerName} was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. ${links.ownerName}'s enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, ${links.ownerName} is the ideal partner.`,
-     name: "Rakesh Kumawat",
-    title: "Director of MVM School",
-  },
-  {
-    quote: `Collaborating with ${links.ownerName} was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. ${links.ownerName}'s enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, ${links.ownerName} is the ideal partner.`,
-     name: "Rakesh Kumawat",
-    title: "Director of MVM School",
-  },
-  {
-    quote: `Collaborating with ${links.ownerName} was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. ${links.ownerName}'s enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, ${links.ownerName} is the ideal partner.`,
-     name: "Rakesh Kumawat",
-    title: "Director of MVM School",
-  },
-  {
-    quote: `Collaborating with ${links.ownerName} was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. ${links.ownerName}'s enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, ${links.ownerName} is the ideal partner.`,
-     name: "Rakesh Kumawat",
-    title: "Director of MVM School",
+    title: "Director, MVM School (India)",
   },
 ] as const;
 
@@ -192,8 +192,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Web Developer at Serva Applabs",
-    desc: "As a Web Developer at Serva Applabs, I craft responsive websites and apps, delivering innovative, client-focused solutions for startups and enterprises, enhancing digital experiences through creativity and collaboration.",
+    title: "Software Developer at Ways and means",
+    desc: "In my current company, I work on both frontend and backend development. I’ve contributed to multiple international projects, including clients from the US, UK, Germany, and Nigeria, delivering scalable and reliable web solutions.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
@@ -210,7 +210,7 @@ export const socialMedia = [
   {
     name: "GitHub",
     img: "/git.svg",
-    link: "https://github.com/SmartlyPrem?tab=repositories",
+    link: "https://github.com/prem-jatol?tab=repositories",
   },
   {
     name: "Instagram",
