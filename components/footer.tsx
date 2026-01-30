@@ -32,7 +32,7 @@ export const Footer = () => {
         </p>
 
         <Link
-          href="https://api.whatsapp.com/send?phone=918619294422&text=Hello%20Prem,%20I%20am%20interested%20in%20your%20services"
+          href="https://api.whatsapp.com/send?phone=918696228856&text=Hello%20Prem,%20I%20am%20interested%20in%20your%20services"
           target="_blank"
           rel="noreferrer noopener"
           className="md:mt-10"
